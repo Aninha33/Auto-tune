@@ -1,5 +1,5 @@
 # Auto-tune
-Prototipo de Auto-tune e Exclusor de Nota.
+Prototipo de Auto-tune e Exclusor de Nota em MATLAB.
 
 Projeto de desenvolvimento de uma aplicacão gráfica em MATLAB,
 utilizando o App Designer, com base em conhecimenotos adquiridos em uma disciplina de processamento digital de sinais, 
